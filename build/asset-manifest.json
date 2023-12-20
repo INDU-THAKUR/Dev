@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.700a3d61.css",
+    "main.js": "/static/js/main.479d71ee.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/HIMCO.png": "/static/media/HIMCO.87b14fac8e7f91389a7c.png",
+    "static/media/IEDU.png": "/static/media/IEDU.00a5a9c027f2d3f75d59.png",
+    "static/media/API.png": "/static/media/API.4d40a841f647842cf08e.png",
+    "static/media/Resume.pdf": "/static/media/Resume.0ec1c725dc5e2781ebcb.pdf",
+    "static/media/DANCE.png": "/static/media/DANCE.3a37265c0528dbc65419.png",
+    "static/media/Cafe.png": "/static/media/Cafe.57e4345178ab7d36beb2.png",
+    "static/media/NEWS.png": "/static/media/NEWS.69754dce2f4d701f69cc.png",
+    "static/media/Akshay.png": "/static/media/Akshay.3f4de74ede56dd5dfcb3.png",
+    "static/media/Silicon.png": "/static/media/Silicon.b34389e4703c75560ee2.png",
+    "static/media/Img2.svg": "/static/media/Img2.3458acf05d134193743b512d6919eb2b.svg",
+    "static/media/BDSupperBold.ttf": "/static/media/BDSupperBold.b931587a4019ba870f99.ttf",
+    "static/media/gmail.png": "/static/media/gmail.fb6a89914ff8d3f04999.png",
+    "static/media/Img3.svg": "/static/media/Img3.ec52df66f44cc3f6b467446d3ae455b3.svg",
+    "static/media/instagram.png": "/static/media/instagram.f76c20820c69dfe8a2b3.png",
+    "static/media/Img4.svg": "/static/media/Img4.ea5752b51fe0cb922214538bdd97ec34.svg",
+    "static/media/TEXT.png": "/static/media/TEXT.8e027b043450634e126d.png",
+    "static/media/linkedin.png": "/static/media/linkedin.2c42fad2deb182162b16.png",
+    "static/media/Img1.svg": "/static/media/Img1.fd3f56bdf75d6f9ec7ca5c4e359f8dee.svg",
+    "static/media/skype.png": "/static/media/skype.f59737c0c3d7d4dd5db5.png",
+    "static/media/oregondry.ttf": "/static/media/oregondry.98e83d35a71037f9d49b.ttf",
+    "static/media/INOT.png": "/static/media/INOT.06d51e02ec7bf5be48c2.png",
+    "static/media/github.png": "/static/media/github.6df94d9cb6595b4dcc7d.png",
+    "static/media/Javascript.png": "/static/media/Javascript.82ca6fee36e603b61a21.png",
+    "index.html": "/index.html",
+    "main.700a3d61.css.map": "/static/css/main.700a3d61.css.map",
+    "main.479d71ee.js.map": "/static/js/main.479d71ee.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700a3d61.css",
+    "static/js/main.479d71ee.js"
+  ]
+}
